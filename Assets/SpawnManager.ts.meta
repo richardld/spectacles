@@ -1,0 +1,43 @@
+- !<AssetImportMetadata/c196a502-8aea-41da-bfca-e89e24b441ca>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 429ce638-1724-4344-8a05-1e1acca00d30
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 429ce638-1724-4344-8a05-1e1acca00d30
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b99d5dfa-9a53-4ddf-af66-11a2f1959582
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/b99d5dfa-9a53-4ddf-af66-11a2f1959582>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2841c0bb-ea30-445c-9b7d-05a72a84ba7b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    mySceneObjArray: false
+    objectToSpawn: false
+  ScriptTypesHidden:
+    {}
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - mySceneObjArray: !<reference.SceneObject[]>
+        []
+      objectToSpawn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input SceneObject[] mySceneObjArray"
+    - // @input SceneObject objectToSpawn

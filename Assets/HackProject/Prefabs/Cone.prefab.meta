@@ -1,0 +1,63 @@
+- !<AssetImportMetadata/5424e6f8-4e3e-4147-bcdd-6be9839e54a5>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 878c8f53-296c-4863-b17b-97939e7ca0d0
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 878c8f53-296c-4863-b17b-97939e7ca0d0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> f0c48c9f-3881-448b-84ab-f500f24baea4
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefab/267d5742-0e21-4b9a-8849-85d2d61e621d>
+  PackagePath: ""
+  objects:
+    - !<own> da7c8a54-1001-47c6-a3f1-7c77f44ba009
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/91f9a1b8-0d98-4f9b-a6b5-d96cc7075be8>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 36961287-8f78-4cf9-b61b-2056b6309f89
+  Mesh: !<reference> df4c9f6d-8090-4a25-ba0c-42a8eeac0a8a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/da7c8a54-1001-47c6-a3f1-7c77f44ba009>
+  PrefabRemaps:
+    []
+  Name: Cone
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 161.697464, y: -66.185211, z: 181.294373}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 20.000000, y: 20.000000, z: 20.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 91f9a1b8-0d98-4f9b-a6b5-d96cc7075be8
+- !<ObjectPrefabAssetData/f0c48c9f-3881-448b-84ab-f500f24baea4>
+  SourceRemaps:
+    - 4eaab6c7-1ed9-465f-bf20-7b6b723028d1: 91f9a1b8-0d98-4f9b-a6b5-d96cc7075be8
+    - 878c8f53-296c-4863-b17b-97939e7ca0d0: 267d5742-0e21-4b9a-8849-85d2d61e621d
+    - cc6ce171-ae36-419a-9f5f-aac709246ed2: da7c8a54-1001-47c6-a3f1-7c77f44ba009
+  SourceState: !<own> 267d5742-0e21-4b9a-8849-85d2d61e621d
