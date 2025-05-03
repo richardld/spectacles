@@ -1,0 +1,513 @@
+- !<AssetImportMetadata/abe44d76-eba1-4ee6-b0e6-ff363a8c26dd>
+  ImportedAssetIds:
+    .hidden/Material.001: !<reference> f4c2d149-49f1-4741-9085-1c6e5bcfda6c
+    1090e4346cd2858c: !<reference> d52bc919-576f-457e-b6e8-97258a2b0379
+    110710ef4defee7b: !<reference> b6c5726c-a218-4e50-905f-19e5ead54379
+    1d6f39f3c1a5bba4: !<reference> 5e6a86ba-b0a3-4e48-b8bb-bb5eb917f527
+    225c38b7fe5d4853: !<reference> 6d07f45e-91f9-4bf8-9673-63aaf398f229
+    3ac05a3723c24881: !<reference> 56de0515-24b8-40b1-ac25-6ec54d643bcb
+    4882ee9dbdc8e119: !<reference> ef6d5458-b77f-4422-80a6-2ca4e18998d3
+    48baf10077b414c1: !<reference> 52f0f7d0-5322-4b19-8d07-114f38b92247
+    585136c89411894d: !<reference> a254e208-f14b-44dd-811d-2bdfefb20642
+    5e913b79a8af4216: !<reference> 42fc14ee-584b-4277-a53e-55651956069e
+    6219d73ae8e2a78e: !<reference> df3ae22d-30fd-4f5b-86fe-e24880831b2c
+    624f6792bd6e379e: !<reference> 910eef89-cf22-4f20-ab59-73735b0527dc
+    65f766ffa8cda111: !<reference> 3d06e43e-92f3-4012-a08f-bddfc36d3ec2
+    6f09b41c76bcdc07: !<reference> d1308d91-2be1-4fa5-bd02-d3490b504ead
+    766cd2c0ea25b254: !<reference> e30f86fe-2b31-453b-bbaa-8b1c08641d9e
+    7a0dd5cd69df73fa: !<reference> 1fe0b29b-1ff9-4e65-9e73-9fcc81670955
+    83437620bbb97154: !<reference> 090d975a-2f0a-4faf-a4ca-c0e7ede58dc3
+    836554558f1ca498: !<reference> 9f8c9a35-6ec1-4799-9bd4-912c23176c47
+    85e490a09a7a23e2: !<reference> 1ad8eac0-e684-4309-a5a0-f08fe4436e8f
+    8cb15add93f90968: !<reference> 93f9de3b-e9bc-445d-9c96-7bbb638b1c9d
+    97f4dd9d3e5327fc: !<reference> 67bd5dfe-103e-4370-8307-1d8a2a0632e4
+    Materials/Material.001: !<reference> f90a6421-eaf5-4870-97fa-7e25a9beae5e
+    Materials/Material.001|Material.001|GraphPassInfo: !<reference> 98b7468e-b199-42f2-a0b0-72eb16fd42e7
+    Meshes/PP_Fly_Agaric_01_Material.001_0: !<reference> 2475e147-d38c-48c3-8d2d-0bfc446f176a
+    Meshes/PP_Fly_Agaric_02_Material.001_0: !<reference> d1e5940a-ddcc-4553-b64c-14abf5d6ade1
+    Meshes/PP_Fly_Agaric_03_Material.001_0: !<reference> 740f6125-34de-4d8d-966c-1971ea4c8ebe
+    Meshes/PP_Fly_Agaric_04_Material.001_0: !<reference> f5fb8124-6222-44fa-8687-81af2068320a
+    Meshes/PP_Fly_Agaric_06_Material.001_0: !<reference> 3b5c973d-af12-46da-bd1f-f57147ba6bce
+    Meshes/PP_Fly_Agaric_08_Material.001_0: !<reference> 66b7759a-a498-4eb5-9fc7-347891a2a6e5
+    Scene: !<reference> 6d033e7c-c2f4-4f58-bebd-4de7251e8d95
+    Textures/texture: !<reference> 70dbd274-df86-4cdc-a8e1-ae0b4965e4a8
+    a794c58a39380318: !<reference> f0bbe701-a073-43f2-9405-324c78982bff
+    ae00e847a928eb25: !<reference> 8e17812b-6c45-44af-8890-c8bce2f76ef0
+    afabd78405dc1dd9: !<reference> 6816b3c7-3e3d-45ee-86b9-3e1f746ac620
+    be0472986598f94c: !<reference> aceb4f74-21d2-42ed-91c2-c7c952f281cc
+    deb3b152ec738e5e: !<reference> 62c6b0f6-a9b6-49e4-8ace-9e5a7d254792
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 6d033e7c-c2f4-4f58-bebd-4de7251e8d95
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 4f38d17e-11c0-4872-b019-9e29651c9152
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/0977d3fd-12f4-4ca4-859c-72f580e8ae9e>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_01_Material.001_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6f298c8d-de7e-4289-be89-aee7aae5eafc
+- !<SceneObject/150d808c-26f1-4a29-b5f2-8be42f2c2c4a>
+  PrefabRemaps:
+    []
+  Name: c537a8dcac4143eca0e966f6cd9cb134.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fabea87e-5f1f-47e4-ade4-4e134465bfff
+  Components:
+    []
+- !<SceneObject/24300803-a60a-4d5c-a10f-ca8c4b165fa2>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_01
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 39.278851, y: 20.648514, z: 78.551689}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0977d3fd-12f4-4ca4-859c-72f580e8ae9e
+  Components:
+    []
+- !<SceneObject/26106ba1-25a4-43e8-8f9b-5e964ed11beb>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5fb21724-6b6c-4657-8292-2be268c2796d
+  Components:
+    []
+- !<SceneObject/3097d068-6438-4dd1-8922-9bbb0163be16>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_06
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 21.908648, y: 21.879398, z: -41.917038}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e4dbc88f-b399-4909-83cc-4d26da653276
+  Components:
+    []
+- !<SceneObject/360bf487-21f0-4ccf-a255-11dbadb2c5af>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_08
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 2.825777, y: 18.688622, z: 40.341587}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 39993211-8049-4902-a13b-34c1201baf07
+  Components:
+    []
+- !<SceneObject/39993211-8049-4902-a13b-34c1201baf07>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_08_Material.001_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4df02db3-4dda-49a8-8c9d-697b6a14f453
+- !<RenderMeshVisual/39b69f32-6968-4cd1-b11b-ee604bbff567>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_04_Material.001_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f90a6421-eaf5-4870-97fa-7e25a9beae5e
+  Mesh: !<reference> f5fb8124-6222-44fa-8687-81af2068320a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3bce1ed6-b58f-4ef9-a80d-abe58e73c7d1>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_02_Material.001_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f90a6421-eaf5-4870-97fa-7e25a9beae5e
+  Mesh: !<reference> d1e5940a-ddcc-4553-b64c-14abf5d6ade1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/46ed808d-31fe-41c6-a9fe-6ecfd05a5413>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_04
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 48.398281, y: 29.907379, z: 0.000000}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e697fdee-ab7f-4c1d-9a6d-1263c4fc0865
+  Components:
+    []
+- !<SceneObject/4bb95986-cf17-46f2-a808-570501816b2a>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_02_Material.001_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3bce1ed6-b58f-4ef9-a80d-abe58e73c7d1
+- !<RenderMeshVisual/4df02db3-4dda-49a8-8c9d-697b6a14f453>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_08_Material.001_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f90a6421-eaf5-4870-97fa-7e25a9beae5e
+  Mesh: !<reference> 66b7759a-a498-4eb5-9fc7-347891a2a6e5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/4f38d17e-11c0-4872-b019-9e29651c9152>
+  SourceRemaps:
+    - 090d975a-2f0a-4faf-a4ca-c0e7ede58dc3: f77b1be4-dfb1-4881-80c7-0478930bd441
+    - 1ad8eac0-e684-4309-a5a0-f08fe4436e8f: 3097d068-6438-4dd1-8922-9bbb0163be16
+    - 1fe0b29b-1ff9-4e65-9e73-9fcc81670955: 53814c5b-3c7f-4b85-8883-bde1187ef315
+    - 3d06e43e-92f3-4012-a08f-bddfc36d3ec2: 9124f252-7cc0-4ec6-913e-c74662747504
+    - 42fc14ee-584b-4277-a53e-55651956069e: c04756c2-1e37-4955-9b94-b21b4e8edb4b
+    - 52f0f7d0-5322-4b19-8d07-114f38b92247: 6f298c8d-de7e-4289-be89-aee7aae5eafc
+    - 56de0515-24b8-40b1-ac25-6ec54d643bcb: 4df02db3-4dda-49a8-8c9d-697b6a14f453
+    - 5e6a86ba-b0a3-4e48-b8bb-bb5eb917f527: 6bbc99a8-7cf0-4024-a698-61a4c1004963
+    - 62c6b0f6-a9b6-49e4-8ace-9e5a7d254792: 4bb95986-cf17-46f2-a808-570501816b2a
+    - 67bd5dfe-103e-4370-8307-1d8a2a0632e4: 360bf487-21f0-4ccf-a255-11dbadb2c5af
+    - 6816b3c7-3e3d-45ee-86b9-3e1f746ac620: 150d808c-26f1-4a29-b5f2-8be42f2c2c4a
+    - 6d033e7c-c2f4-4f58-bebd-4de7251e8d95: 8bb714b6-201d-4292-92b2-76b4c017b024
+    - 6d07f45e-91f9-4bf8-9673-63aaf398f229: e4dbc88f-b399-4909-83cc-4d26da653276
+    - 8e17812b-6c45-44af-8890-c8bce2f76ef0: 39993211-8049-4902-a13b-34c1201baf07
+    - 910eef89-cf22-4f20-ab59-73735b0527dc: 26106ba1-25a4-43e8-8f9b-5e964ed11beb
+    - 93f9de3b-e9bc-445d-9c96-7bbb638b1c9d: fabea87e-5f1f-47e4-ade4-4e134465bfff
+    - 9f8c9a35-6ec1-4799-9bd4-912c23176c47: c77baa87-4b1e-455d-baf3-c3afc6f371b5
+    - a254e208-f14b-44dd-811d-2bdfefb20642: 24300803-a60a-4d5c-a10f-ca8c4b165fa2
+    - aceb4f74-21d2-42ed-91c2-c7c952f281cc: 46ed808d-31fe-41c6-a9fe-6ecfd05a5413
+    - b6c5726c-a218-4e50-905f-19e5ead54379: 7194479b-d98d-44f6-a3cf-5aa3ff2053ed
+    - d1308d91-2be1-4fa5-bd02-d3490b504ead: e697fdee-ab7f-4c1d-9a6d-1263c4fc0865
+    - d52bc919-576f-457e-b6e8-97258a2b0379: 3bce1ed6-b58f-4ef9-a80d-abe58e73c7d1
+    - df3ae22d-30fd-4f5b-86fe-e24880831b2c: 5fb21724-6b6c-4657-8292-2be268c2796d
+    - e30f86fe-2b31-453b-bbaa-8b1c08641d9e: 39b69f32-6968-4cd1-b11b-ee604bbff567
+    - ef6d5458-b77f-4422-80a6-2ca4e18998d3: 0977d3fd-12f4-4ca4-859c-72f580e8ae9e
+    - f0bbe701-a073-43f2-9405-324c78982bff: edf005f5-cf91-4e64-92fd-3cec7bec209c
+  SourceState: !<own> 8bb714b6-201d-4292-92b2-76b4c017b024
+- !<SceneObject/53814c5b-3c7f-4b85-8883-bde1187ef315>
+  PrefabRemaps:
+    []
+  Name: low_poly_fly_agaric
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 26106ba1-25a4-43e8-8f9b-5e964ed11beb
+  Components:
+    []
+- !<SceneObject/5fb21724-6b6c-4657-8292-2be268c2796d>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f77b1be4-dfb1-4881-80c7-0478930bd441
+  Components:
+    - !<own> c77baa87-4b1e-455d-baf3-c3afc6f371b5
+- !<RenderMeshVisual/6bbc99a8-7cf0-4024-a698-61a4c1004963>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_06_Material.001_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f90a6421-eaf5-4870-97fa-7e25a9beae5e
+  Mesh: !<reference> 3b5c973d-af12-46da-bd1f-f57147ba6bce
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/6f298c8d-de7e-4289-be89-aee7aae5eafc>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_01_Material.001_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f90a6421-eaf5-4870-97fa-7e25a9beae5e
+  Mesh: !<reference> 2475e147-d38c-48c3-8d2d-0bfc446f176a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7194479b-d98d-44f6-a3cf-5aa3ff2053ed>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_02
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -27.404308, y: 16.338650, z: 18.416229}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4bb95986-cf17-46f2-a808-570501816b2a
+  Components:
+    []
+- !<ObjectPrefab/8bb714b6-201d-4292-92b2-76b4c017b024>
+  PackagePath: ""
+  objects:
+    - !<own> 53814c5b-3c7f-4b85-8883-bde1187ef315
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/9124f252-7cc0-4ec6-913e-c74662747504>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_03
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 4.307015, y: 12.768497, z: -12.804442}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> edf005f5-cf91-4e64-92fd-3cec7bec209c
+  Components:
+    []
+- !<RenderMeshVisual/c04756c2-1e37-4955-9b94-b21b4e8edb4b>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_03_Material.001_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f90a6421-eaf5-4870-97fa-7e25a9beae5e
+  Mesh: !<reference> 740f6125-34de-4d8d-966c-1971ea4c8ebe
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AnimationPlayer/c77baa87-4b1e-455d-baf3-c3afc6f371b5>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    []
+- !<SceneObject/e4dbc88f-b399-4909-83cc-4d26da653276>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_06_Material.001_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6bbc99a8-7cf0-4024-a698-61a4c1004963
+- !<SceneObject/e697fdee-ab7f-4c1d-9a6d-1263c4fc0865>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_04_Material.001_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 39b69f32-6968-4cd1-b11b-ee604bbff567
+- !<SceneObject/edf005f5-cf91-4e64-92fd-3cec7bec209c>
+  PrefabRemaps:
+    []
+  Name: PP_Fly_Agaric_03_Material.001_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c04756c2-1e37-4955-9b94-b21b4e8edb4b
+- !<SceneObject/f77b1be4-dfb1-4881-80c7-0478930bd441>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 150d808c-26f1-4a29-b5f2-8be42f2c2c4a
+  Components:
+    []
+- !<SceneObject/fabea87e-5f1f-47e4-ade4-4e134465bfff>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 46ed808d-31fe-41c6-a9fe-6ecfd05a5413
+    - !<own> 9124f252-7cc0-4ec6-913e-c74662747504
+    - !<own> 24300803-a60a-4d5c-a10f-ca8c4b165fa2
+    - !<own> 7194479b-d98d-44f6-a3cf-5aa3ff2053ed
+    - !<own> 360bf487-21f0-4ccf-a255-11dbadb2c5af
+    - !<own> 3097d068-6438-4dd1-8922-9bbb0163be16
+  Components:
+    []

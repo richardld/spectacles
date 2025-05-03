@@ -1,0 +1,514 @@
+- !<AssetImportMetadata/2f682145-4063-4f11-99c7-18ec9bfdc3ba>
+  ImportedAssetIds:
+    .hidden/Material.001: !<reference> 6e1c9f14-629d-4637-954d-e1189345acee
+    06dc91c8f8c10e63: !<reference> 57374c3e-a6ac-4f9d-9682-9374bda3e9b3
+    0f53d1d650ef736b: !<reference> 41a42c8f-0235-4564-8938-fae8eebf224a
+    29c3dfbd559c4597: !<reference> 3e0bec58-84d9-45d0-8433-91bbb06a90f7
+    30a922345acfcf6d: !<reference> f749d499-5f2c-41a3-8e80-6e91091553e9
+    34ce809e4799ef1a: !<reference> 8c185279-6603-4ef6-8721-068fd9b9d239
+    3bacac35ac203749: !<reference> 53f21b64-cb31-4a98-951b-9fdbba9b85b8
+    405fe60d2976c45c: !<reference> 091fcfc5-c260-4604-8a12-696a5367f27a
+    4e6c8797971782b8: !<reference> 8849c1f8-28b7-4cf5-8d1d-81b523910aa9
+    4ec13dd14dbaf5f6: !<reference> 9c09c98f-01e3-401f-b4d2-5d765b39a9c5
+    50b31d122fd001df: !<reference> a4009794-f126-46c6-8f43-61774d9a9096
+    5d325a6f27885e03: !<reference> 97aaebbc-9f56-40bc-a49d-307b7dd316e5
+    624f6792bd6e379e: !<reference> 9a058c72-3b3c-44ac-874f-82f9d31b48ed
+    72900302f62b7a94: !<reference> f3a1f694-9079-4c27-bb45-9fb73d515302
+    7a0dd5cd69df73fa: !<reference> 1bc94112-33dc-488d-a7b4-286e413f28e7
+    7ce3ce33774dce59: !<reference> 9429aae7-4365-425a-bc35-3b557aa12efe
+    8a1301b52e0ecf3c: !<reference> bfdc6ad1-6e62-4216-b42c-95c79119598a
+    9de93d048c15fc9e: !<reference> 30948f85-83e9-4bec-9b2e-f6aa7e5e0331
+    Materials/Material.001: !<reference> 4c0e7cfa-93ea-4cfb-b898-e276ec3548f0
+    Materials/Material.001|Material.001|GraphPassInfo: !<reference> 99e9f9e9-2690-4732-a86d-7e2b3a8c5ae5
+    Meshes/Tulip_blue_01_Material_0: !<reference> c8ea6e8d-ce1f-41e1-9b36-ff5ab39ff558
+    Meshes/Tulip_blue_02_Material_0: !<reference> dcd0d422-83a0-4c72-a8e9-c496ffc08c78
+    Meshes/Tulip_blue_03_Material_0: !<reference> c0468399-e57f-4b81-91a8-2d6c14d24205
+    Meshes/Tulip_blue_04_Material_0: !<reference> b7ee681c-b9c5-4e2a-9bd8-5780da899465
+    Meshes/Tulip_blue_05_Material_0: !<reference> b2d51150-0b04-4e15-bfcf-d46300819776
+    Meshes/Tulip_blue_06_Material_0: !<reference> b43b4bc3-1968-4778-89b3-7362f50005f8
+    Scene: !<reference> 11c124a9-0786-4c9a-98fa-eafc62d35866
+    Textures/Image_0: !<reference> 20cb4e1d-e280-40fb-af43-7d649f309a73
+    Textures/Image_1: !<reference> 864c200d-d9e3-41b0-8fd5-87e7fc201d1f
+    a2ac5a5f7216f1de: !<reference> e04bd1c0-964f-40fa-993c-0e063c246d66
+    b08c9be5fc21c0b9: !<reference> 940bbecd-8b62-47ad-b561-9ff5f8e24117
+    c542a58b9afa4b72: !<reference> ae6ceb9a-dda7-42bc-8dce-517a03a88dcc
+    c8fe7d293297f224: !<reference> 65e7f4aa-b6ec-45b1-82a2-95ca9bbec57a
+    d6c8244101f8dadb: !<reference> ab3e63eb-1a10-405e-87db-dfd8f62c275c
+    e140c4199169af55: !<reference> 9f6f43d6-55a8-4f84-83aa-c137b2e8277d
+    e4c90cc0d095ba11: !<reference> 6fab4e9e-145e-4830-87a2-184d5a8c04fb
+    ff9c4a0b9d345742: !<reference> 59297c30-09f4-4cf8-a51f-67858b7928a1
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 11c124a9-0786-4c9a-98fa-eafc62d35866
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> b552947a-1528-428c-8e08-eac805658de6
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/20525efc-836f-4a5c-b360-626a7d690dfa>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_01
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.396964, y: 0.133010, z: 0.018166}
+    rotation: {x: -22.264050, y: -13.980919, z: 18.474085}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f0a43465-feea-4881-97f8-185aeefed35e
+  Components:
+    []
+- !<ObjectPrefab/23c59dc3-56af-4b70-b6eb-5cf804677ff7>
+  PackagePath: ""
+  objects:
+    - !<own> f0317fa1-d730-4e59-b3b6-012209031ba5
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/2c803a76-80ad-42d2-8938-dcb285ace6a7>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_04
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.271738, y: 0.260359, z: -0.217780}
+    rotation: {x: 8.939068, y: 54.171326, z: 31.688120}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2eb3ed30-e3d2-4314-a02b-6c52c0d536bb
+  Components:
+    []
+- !<SceneObject/2eb3ed30-e3d2-4314-a02b-6c52c0d536bb>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_04_Material_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.006512, y: 0.015156, z: 0.004956}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f1a49f18-5373-4e4e-91e2-3b4d2609ffd0
+- !<RenderMeshVisual/35a51453-6569-4fa8-938c-dbee61616cab>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_06_Material_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4c0e7cfa-93ea-4cfb-b898-e276ec3548f0
+  Mesh: !<reference> b43b4bc3-1968-4778-89b3-7362f50005f8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3de44ec9-ce79-4f23-bedd-3c38b5dccac4>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_02_Material_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4c0e7cfa-93ea-4cfb-b898-e276ec3548f0
+  Mesh: !<reference> dcd0d422-83a0-4c72-a8e9-c496ffc08c78
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/566337e2-275e-4a51-8e4b-1103dd073cd4>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_03_Material_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4c0e7cfa-93ea-4cfb-b898-e276ec3548f0
+  Mesh: !<reference> c0468399-e57f-4b81-91a8-2d6c14d24205
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/6220e1fa-bb41-44d1-b546-585df60dba1c>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_05_Material_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.002122, y: 0.015373, z: 0.002684}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6f4a16b7-aa10-4f12-bbff-0ca76001f574
+- !<SceneObject/6259e8ee-a1a6-4c9b-86fe-8a9510663178>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7d6c5822-17ca-4e58-8566-c76baee1728b
+  Components:
+    - !<own> b533dbd9-200e-4034-9eaa-f0654b149e28
+- !<RenderMeshVisual/6f4a16b7-aa10-4f12-bbff-0ca76001f574>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_05_Material_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4c0e7cfa-93ea-4cfb-b898-e276ec3548f0
+  Mesh: !<reference> b2d51150-0b04-4e15-bfcf-d46300819776
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7d6c5822-17ca-4e58-8566-c76baee1728b>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 87467f73-5d81-4883-97ac-edb631c732d6
+  Components:
+    []
+- !<SceneObject/82706dbb-c6bc-4da8-bdc5-5060389de8c2>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_06
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.147271, y: 0.311791, z: 0.190157}
+    rotation: {x: -13.695151, y: 38.353577, z: 28.444822}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> aa648358-9654-46af-be87-be4094edf314
+  Components:
+    []
+- !<SceneObject/87467f73-5d81-4883-97ac-edb631c732d6>
+  PrefabRemaps:
+    []
+  Name: 75475139ca494be7823f8747555fcd5f.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> eebb35e3-2df7-42d3-9b05-53efce4ef428
+  Components:
+    []
+- !<SceneObject/9092d209-af26-42b6-8012-69792669f045>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_02_Material_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.002044, y: 0.012576, z: 0.003938}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3de44ec9-ce79-4f23-bedd-3c38b5dccac4
+- !<SceneObject/9b03f8db-5715-425d-b40e-c8dbb29d1833>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_02
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.138069, y: 0.208800, z: -0.306946}
+    rotation: {x: 155.908066, y: -25.256628, z: -177.271912}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9092d209-af26-42b6-8012-69792669f045
+  Components:
+    []
+- !<SceneObject/a258668a-5cc5-4500-bf61-0c254c413f1d>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_03
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.076789, y: 0.154880, z: 0.075603}
+    rotation: {x: 159.246124, y: 13.731530, z: 154.317459}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fc707b0c-3420-4bc8-8d71-d79bb95e2a7d
+  Components:
+    []
+- !<RenderMeshVisual/a49e12ef-44d4-4e11-8199-73ebb4728848>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_01_Material_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4c0e7cfa-93ea-4cfb-b898-e276ec3548f0
+  Mesh: !<reference> c8ea6e8d-ce1f-41e1-9b36-ff5ab39ff558
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/aa648358-9654-46af-be87-be4094edf314>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_06_Material_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.001890, y: 0.015364, z: 0.004240}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 35a51453-6569-4fa8-938c-dbee61616cab
+- !<AnimationPlayer/b533dbd9-200e-4034-9eaa-f0654b149e28>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    []
+- !<ObjectPrefabAssetData/b552947a-1528-428c-8e08-eac805658de6>
+  SourceRemaps:
+    - 091fcfc5-c260-4604-8a12-696a5367f27a: 2c803a76-80ad-42d2-8938-dcb285ace6a7
+    - 11c124a9-0786-4c9a-98fa-eafc62d35866: 23c59dc3-56af-4b70-b6eb-5cf804677ff7
+    - 1bc94112-33dc-488d-a7b4-286e413f28e7: f0317fa1-d730-4e59-b3b6-012209031ba5
+    - 30948f85-83e9-4bec-9b2e-f6aa7e5e0331: 7d6c5822-17ca-4e58-8566-c76baee1728b
+    - 3e0bec58-84d9-45d0-8433-91bbb06a90f7: 3de44ec9-ce79-4f23-bedd-3c38b5dccac4
+    - 41a42c8f-0235-4564-8938-fae8eebf224a: 6f4a16b7-aa10-4f12-bbff-0ca76001f574
+    - 53f21b64-cb31-4a98-951b-9fdbba9b85b8: fc707b0c-3420-4bc8-8d71-d79bb95e2a7d
+    - 57374c3e-a6ac-4f9d-9682-9374bda3e9b3: a258668a-5cc5-4500-bf61-0c254c413f1d
+    - 59297c30-09f4-4cf8-a51f-67858b7928a1: 566337e2-275e-4a51-8e4b-1103dd073cd4
+    - 65e7f4aa-b6ec-45b1-82a2-95ca9bbec57a: eebb35e3-2df7-42d3-9b05-53efce4ef428
+    - 6fab4e9e-145e-4830-87a2-184d5a8c04fb: f0a43465-feea-4881-97f8-185aeefed35e
+    - 8849c1f8-28b7-4cf5-8d1d-81b523910aa9: 6259e8ee-a1a6-4c9b-86fe-8a9510663178
+    - 8c185279-6603-4ef6-8721-068fd9b9d239: 9b03f8db-5715-425d-b40e-c8dbb29d1833
+    - 940bbecd-8b62-47ad-b561-9ff5f8e24117: aa648358-9654-46af-be87-be4094edf314
+    - 9429aae7-4365-425a-bc35-3b557aa12efe: bd9c1d43-1cb8-45d0-a1fb-e89d2f8ffa7f
+    - 97aaebbc-9f56-40bc-a49d-307b7dd316e5: 6220e1fa-bb41-44d1-b546-585df60dba1c
+    - 9a058c72-3b3c-44ac-874f-82f9d31b48ed: d5ae869d-28cd-49ed-8046-3b186a9d5a17
+    - 9c09c98f-01e3-401f-b4d2-5d765b39a9c5: f1a49f18-5373-4e4e-91e2-3b4d2609ffd0
+    - 9f6f43d6-55a8-4f84-83aa-c137b2e8277d: b533dbd9-200e-4034-9eaa-f0654b149e28
+    - a4009794-f126-46c6-8f43-61774d9a9096: 2eb3ed30-e3d2-4314-a02b-6c52c0d536bb
+    - ab3e63eb-1a10-405e-87db-dfd8f62c275c: 9092d209-af26-42b6-8012-69792669f045
+    - ae6ceb9a-dda7-42bc-8dce-517a03a88dcc: 35a51453-6569-4fa8-938c-dbee61616cab
+    - bfdc6ad1-6e62-4216-b42c-95c79119598a: 87467f73-5d81-4883-97ac-edb631c732d6
+    - e04bd1c0-964f-40fa-993c-0e063c246d66: a49e12ef-44d4-4e11-8199-73ebb4728848
+    - f3a1f694-9079-4c27-bb45-9fb73d515302: 20525efc-836f-4a5c-b360-626a7d690dfa
+    - f749d499-5f2c-41a3-8e80-6e91091553e9: 82706dbb-c6bc-4da8-bdc5-5060389de8c2
+  SourceState: !<own> 23c59dc3-56af-4b70-b6eb-5cf804677ff7
+- !<SceneObject/bd9c1d43-1cb8-45d0-a1fb-e89d2f8ffa7f>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_05
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.093019, y: 0.265251, z: 0.416261}
+    rotation: {x: -169.266708, y: -15.752871, z: 150.026260}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6220e1fa-bb41-44d1-b546-585df60dba1c
+  Components:
+    []
+- !<SceneObject/d5ae869d-28cd-49ed-8046-3b186a9d5a17>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6259e8ee-a1a6-4c9b-86fe-8a9510663178
+  Components:
+    []
+- !<SceneObject/eebb35e3-2df7-42d3-9b05-53efce4ef428>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 20525efc-836f-4a5c-b360-626a7d690dfa
+    - !<own> 9b03f8db-5715-425d-b40e-c8dbb29d1833
+    - !<own> a258668a-5cc5-4500-bf61-0c254c413f1d
+    - !<own> 2c803a76-80ad-42d2-8938-dcb285ace6a7
+    - !<own> bd9c1d43-1cb8-45d0-a1fb-e89d2f8ffa7f
+    - !<own> 82706dbb-c6bc-4da8-bdc5-5060389de8c2
+  Components:
+    []
+- !<SceneObject/f0317fa1-d730-4e59-b3b6-012209031ba5>
+  PrefabRemaps:
+    []
+  Name: flower
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d5ae869d-28cd-49ed-8046-3b186a9d5a17
+  Components:
+    []
+- !<SceneObject/f0a43465-feea-4881-97f8-185aeefed35e>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_01_Material_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.003730, y: 0.018716, z: 0.004336}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a49e12ef-44d4-4e11-8199-73ebb4728848
+- !<RenderMeshVisual/f1a49f18-5373-4e4e-91e2-3b4d2609ffd0>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_04_Material_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4c0e7cfa-93ea-4cfb-b898-e276ec3548f0
+  Mesh: !<reference> b7ee681c-b9c5-4e2a-9bd8-5780da899465
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/fc707b0c-3420-4bc8-8d71-d79bb95e2a7d>
+  PrefabRemaps:
+    []
+  Name: Tulip_blue_03_Material_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.005053, y: 0.016730, z: 0.002993}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 566337e2-275e-4a51-8e4b-1103dd073cd4

@@ -1,0 +1,37 @@
+- !<Material/d2267b80-baaa-47d7-b799-746703b46310>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> b7a2fc00-107a-4548-a52a-e910d22eb70f
+- !<PassInfo/b7a2fc00-107a-4548-a52a-e910d22eb70f>
+  CachedProperties:
+    []
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    - NODE_13_DROPLIST_ITEM 0
+    - NODE_27_DROPLIST_ITEM 0
+    - NODE_49_DROPLIST_ITEM 0
+    - NODE_69_DROPLIST_ITEM 0
+  BlendMode: Disabled
+  Properties:
+    Port_Default_N204:
+      typeIdx: 1
+      value: 0.000000
+    Port_Default_N369:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    baseColor:
+      typeIdx: 5
+      value: {x: 0.047059, y: 0.047059, z: 1.000000, w: 1.000000}
+  Pass: !<reference> 8653bda3-5676-4234-aac4-8ccdd8b5dbe2

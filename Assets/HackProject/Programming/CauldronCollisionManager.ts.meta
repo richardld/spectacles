@@ -1,39 +1,40 @@
-- !<AssetImportMetadata/685e19ea-99d0-4185-ae3c-b039b4513c07>
+- !<AssetImportMetadata/6b39eacd-d3b4-4059-84b0-387eaf3cd0ca>
   ImportedAssetIds:
-    TypeScriptAsset: !<reference> 15dae7da-730c-44d4-a285-59fb2cf1c37c
+    TypeScriptAsset: !<reference> 14df7a89-36de-4c46-b46f-fc54849e94c9
   ImporterName: TypeScriptAssetImporter
-  PrimaryAsset: !<reference> 15dae7da-730c-44d4-a285-59fb2cf1c37c
+  PrimaryAsset: !<reference> 14df7a89-36de-4c46-b46f-fc54849e94c9
   PackageType: NotAPackage
   PackagePolicy: CannotBeUnpacked
   ExtraData:
     {}
   AssetDataMap:
-    TypeScriptAsset: !<own> a2657886-cfc3-466c-ad6f-1d47e725482e
+    TypeScriptAsset: !<own> 623de08b-6179-40f4-8bb8-8060f2264ab4
   DependentFiles:
     []
   ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
-- !<TypeScriptAssetData/a2657886-cfc3-466c-ad6f-1d47e725482e>
+- !<TypeScriptAssetData/623de08b-6179-40f4-8bb8-8060f2264ab4>
   SvgIcon: ""
   Description: ""
   InternalVersion: 0
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 07a49035-83a8-4695-872b-7e312fff4579
+  ComponentUid: 61224085-e258-4fa8-ade3-c3dd2e2e1b17
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
   ScriptInputsHidden:
-    cauldronLiquid: false
+    {}
   ScriptTypesHidden:
     {}
   DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
   DefaultScriptInputs:
-    - cauldronLiquid: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+    -
+      {}
   ScriptTypes:
     -
       {}
   InputLines:
-    - // @input SceneObject cauldronLiquid
+    []
