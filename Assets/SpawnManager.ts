@@ -4,10 +4,17 @@ export class NewScript extends BaseScriptComponent {
     mySceneObjArray: SceneObject[];
 
     @input
-    objectToSpawn : SceneObject;
+    objectToSpawn : ObjectPrefab;
 
     
     onAwake() {
 
+    }
+
+    onUpdate()
+    {
+        this.mySceneObjArray.forEach(element => {
+          // var newObject = this.objectToSpawn.instantiate();
+        });
     }
 }

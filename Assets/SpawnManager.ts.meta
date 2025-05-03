@@ -40,4 +40,4 @@
       {}
   InputLines:
     - "// @input SceneObject[] mySceneObjArray"
-    - // @input SceneObject objectToSpawn
+    - // @input Asset.ObjectPrefab objectToSpawn
